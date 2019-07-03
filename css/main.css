@@ -1799,7 +1799,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content h3 {
     font-family: "montserrat-medium", sans-serif;
     font-size: 1.6rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: #fff; /* rgba(255, 255, 255, 0.5); */
     text-transform: uppercase;
     letter-spacing: .3rem;
     position: relative;
