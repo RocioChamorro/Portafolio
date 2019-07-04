@@ -2068,13 +2068,6 @@ html.no-csstransitions .home-content__main {
     .home-content__main {
         max-width: 1000px;
     }
-    .home-content__buttons {
-        display: flex;
-        flex-flow: column wrap;
-        align-content: center;
-        padding-top: 1.2rem;
-        text-align: center;
-    }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -2083,6 +2076,13 @@ html.no-csstransitions .home-content__main {
     }
     .home-content__main {
         max-width: 800px;
+    }
+    .home-content__buttons {
+        display: flex;
+        flex-flow: column wrap;
+        align-content: center;
+        padding-top: 1.2rem;
+        text-align: center;
     }
 }
 
@@ -2157,6 +2157,7 @@ html.no-csstransitions .home-content__main {
     .home-content__line {
         height: 7.2rem;
     }
+    
 }
 
 @media only screen and (max-width: 500px) {
