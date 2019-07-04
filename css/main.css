@@ -184,6 +184,9 @@ h6, .h6 {
 p img {
     margin: 0;
 }
+.img {
+    border-radius: 15px;
+}
 
 p.lead {
     font-family: "montserrat-regular", sans-serif;
@@ -3095,6 +3098,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-primary {
     width: 65%;
+    text-align: center;
 }
 
 .contact-primary #contactForm {
